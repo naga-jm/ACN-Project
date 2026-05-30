@@ -247,3 +247,5 @@ python3 spoof.py
 ---
 
 *Lab completed as part of the SEED Labs Network Security curriculum.*
+
+FIND THE ENTIRE LAB IN THE PDF FILE IN THIS SNIFFING AND SPOOFING FOLDER ALONG WITH SCREENSHOTS
