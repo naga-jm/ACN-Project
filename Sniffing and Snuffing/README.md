@@ -1,5 +1,4 @@
 # Packet Sniffing and Spoofing Lab
-**Author:** Naga Jyothi Mahankali  
 **Course:** Network Security — SEED Labs  
 **Topic:** Packet Sniffing and Spoofing using Scapy
 
