@@ -1,5 +1,4 @@
 # ARP Cache Poisoning Attack Lab
-**Author:** Naga Jyothi Mahankali  
 **Course:** Network Security — SEED Labs  
 **Topic:** ARP Cache Poisoning & Man-in-the-Middle Attack using Scapy
 
