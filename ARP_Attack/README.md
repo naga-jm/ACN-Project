@@ -1,5 +1,5 @@
 # ARP Cache Poisoning Attack Lab
-**Course:** Network Security — SEED Labs  
+**Course:** Network Security — SEED Labs   
 **Topic:** ARP Cache Poisoning & Man-in-the-Middle Attack using Scapy
 
 ---
