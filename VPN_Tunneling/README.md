@@ -1,5 +1,5 @@
 # VPN Tunneling Lab
-**Author:** Naga Jyothi Mahankali  
+ 
 **Course:** Network Security — SEED Labs  
 **Topic:** Building a VPN Tunnel from Scratch using TUN/TAP Interfaces
 
