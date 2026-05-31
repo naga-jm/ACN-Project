@@ -1,5 +1,4 @@
 # ICMP Redirect Attack Lab
-**Author:** Naga Jyothi Mahankali  
 **Course:** Network Security — SEED Labs  
 **Topic:** ICMP Redirect Attack & Man-in-the-Middle using Scapy
 
