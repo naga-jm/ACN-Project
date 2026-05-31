@@ -1,5 +1,5 @@
 # DNS Local Attack Lab
-**Author:** Naga Jyothi Mahankali  
+
 **Lab:** SEED Labs — DNS Local Attack
 
 ---
